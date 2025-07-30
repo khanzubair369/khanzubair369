@@ -72,9 +72,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zubairkhan&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khanzubair369&show_icons=true&theme=radical" alt="stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zubairkhan&theme=radical" alt="streaks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanzubair369&theme=radical" alt="streaks" />
 </p>
 
 ---
@@ -82,7 +82,7 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zubairkhan9661/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/khanzubair369/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:khanzubair966111@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://zubairkhan.dev" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-1e1e1e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
