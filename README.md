@@ -31,6 +31,16 @@
   <img src="https://img.shields.io/badge/Appium-6DB33F?style=for-the-badge&logo=appium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-FE7A16?style=for-the-badge&logo=testng&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sauce%20Labs-E2231A?style=for-the-badge&logo=saucelabs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20Automation-FF5733?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI%20Automation-00BCD4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Performance%20Testing-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ETL%20Testing-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=microgen&logoColor=white"/>
@@ -47,6 +57,10 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Druid-0E1621?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
 #### 🌐 Web & Mobile Dev
@@ -86,3 +100,9 @@
   <a href="mailto:khanzubair966111@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://zubairkhan.dev" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-1e1e1e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
+
+---
+
+### 💼 Domains Worked In
+- 🏥 Healthcare  
+- 📊 AdTech
